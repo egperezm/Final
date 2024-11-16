@@ -28,6 +28,15 @@ Examen Final
 ## Despliegue del Proyecto localmente
 - 1)	Mediante el navegador de forma manual http://localhost:3000, pero lo abre de forma automática al ingresar el comando dos (2), como se explica anterior mente.
 - 2)	Mediante un complemento por parte de Create React App Sample se ve de esta manera
+- ## <img width="904" alt="Captura de pantalla 2024-11-16 a la(s) 11 36 15" src="https://github.com/user-attachments/assets/fbdf8c42-b45b-4d1f-a3e4-ba7e14c2238b">
+# Funcionalidad del Backend 
+- ## <img width="1028" alt="Captura de pantalla 2024-11-16 a la(s) 11 23 54" src="https://github.com/user-attachments/assets/c7165b55-bc78-40eb-a2cc-ae0b9410e841">
+# Funcionalidad del Frontend 
+- ## ![Captura de pantalla 2024-11-16 a la(s) 10 55 27](https://github.com/user-attachments/assets/01518667-c8bc-46c2-a28d-09f91b5f4162)
+# Base de datos creada correctamente 
+- ## <img width="1024" alt="Captura de pantalla 2024-11-16 a la(s) 10 31 35" src="https://github.com/user-attachments/assets/fbc08201-0c96-45da-8623-67f25b3ce6bb">
+# Comunicación entre el Frontend y el Backend 
+- ## ![Captura de pantalla 2024-11-16 a la(s) 10 55 27](https://github.com/user-attachments/assets/e171a32e-44ed-484b-9d55-34e6b7ada21b)
 
 ## Material completo almacenado en GitHub
 - ttps://github.com/egperezm/Gestion_Notas.git
