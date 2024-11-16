@@ -38,5 +38,3 @@ Examen Final
 # Comunicación entre el Frontend y el Backend 
 - ## ![Captura de pantalla 2024-11-16 a la(s) 10 55 27](https://github.com/user-attachments/assets/e171a32e-44ed-484b-9d55-34e6b7ada21b)
 
-## Material completo almacenado en GitHub
-- ttps://github.com/egperezm/Gestion_Notas.git
